@@ -1,11 +1,13 @@
-Xapian building
+# Xapian building
 
 http://www.mingw.org/wiki/msys
 
 
-CMake env vars
+# CMake env vars
 
+PYTHON_INCLUDE_DIR - Headers directory python
 
--D PYTHON_INCLUDE_DIR - Headers directory python
--D PYTHON_LIBRARIES   - Location the DLL python
--D xapian_DIR         - Directory cmake the xapian project
+PYTHON_LIBRARIES   - Location the DLL python
+
+xapian_DIR         - Directory cmake the xapian project
+

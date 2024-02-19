@@ -1,0 +1,4 @@
+include MANIFEST.in
+include LICENSE
+include xapian/_xapian.pyd
+include xapian/libxapian*.dll

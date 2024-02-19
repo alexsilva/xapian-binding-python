@@ -1,4 +1,4 @@
-Xapian bindings
+Xapian bindings (https://xapian.org/download)
 -
 
 Toolchain  Mingw64
